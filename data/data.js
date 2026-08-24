@@ -1,5 +1,5 @@
 const metricsData = {
-    "last_updated": "2026-08-23 10:00:40 KST",
+    "last_updated": "2026-08-24 09:58:46 KST",
     "history": [
         {
             "date": "2026-01-31",
@@ -464,6 +464,14 @@ const metricsData = {
             "youtube_avg_views": 760,
             "blog_total_posts": 233,
             "linkedin_followers": 2460
+        },
+        {
+            "date": "2026-08-24",
+            "youtube_subscribers": 293,
+            "youtube_views": 102170,
+            "youtube_avg_views": 761,
+            "blog_total_posts": 233,
+            "linkedin_followers": 2460
         }
     ],
     "recent_blog_posts": [
@@ -530,7 +538,7 @@ const metricsData = {
             "title": "다른 데엔 없고 '독일 아마존'에만 있는 이 단어의 정체 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/AKa_7duO0OY/mqdefault.jpg",
             "date": "2026-08-21",
-            "views": 19,
+            "views": 20,
             "likes": 6
         },
         {
@@ -538,7 +546,7 @@ const metricsData = {
             "title": "글로벌 제품 기획/디자인 일경험 인턴 vlog | 슈피겐코리아",
             "thumbnail": "https://i.ytimg.com/vi/EqzfFkUBmn8/mqdefault.jpg",
             "date": "2026-08-10",
-            "views": 842,
+            "views": 843,
             "likes": 18
         },
         {
@@ -578,7 +586,7 @@ const metricsData = {
             "title": "330조 원 시장 프랑스🗼가 가진 독특한 소비 기준 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/7JvbwJK266w/mqdefault.jpg",
             "date": "2026-07-29",
-            "views": 132,
+            "views": 135,
             "likes": 10
         },
         {
@@ -602,7 +610,7 @@ const metricsData = {
             "title": "아마존 이탈리아가 1위🥇를 유지할 수 있는 이유 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/EyndsOeLX_c/mqdefault.jpg",
             "date": "2026-07-07",
-            "views": 1622,
+            "views": 1623,
             "likes": 6
         },
         {
@@ -658,7 +666,7 @@ const metricsData = {
             "title": "입사 한 달차를 모두 모은 이유? 슈피겐의 온보딩 프로그램 '월간 체크인🔎'",
             "thumbnail": "https://i.ytimg.com/vi/djq41wjSnbQ/mqdefault.jpg",
             "date": "2026-06-18",
-            "views": 471,
+            "views": 473,
             "likes": 9
         },
         {
@@ -722,7 +730,7 @@ const metricsData = {
             "title": "아마존이 '고전'하는 나라? 싱가포르의 1,2위 플랫폼, 쇼피와 라자다 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/Zfz-75wLfYY/mqdefault.jpg",
             "date": "2026-04-28",
-            "views": 362,
+            "views": 363,
             "likes": 21
         },
         {
@@ -739,7 +747,7 @@ const metricsData = {
             "thumbnail": "https://i.ytimg.com/vi/bBj2NbfHH48/mqdefault.jpg",
             "date": "2026-04-13",
             "views": 747,
-            "likes": 10
+            "likes": 9
         },
         {
             "id": "VCZmySXFMSM",
@@ -747,7 +755,7 @@ const metricsData = {
             "thumbnail": "https://i.ytimg.com/vi/VCZmySXFMSM/mqdefault.jpg",
             "date": "2026-04-03",
             "views": 732,
-            "likes": 11
+            "likes": 10
         },
         {
             "id": "dEr5hb1doUM",
@@ -770,7 +778,7 @@ const metricsData = {
             "title": "📢현직자피셜📢 해외 영업 담당이 가져야 할 3가지 핵심 역량",
             "thumbnail": "https://i.ytimg.com/vi/ZdF-Hp31a2U/mqdefault.jpg",
             "date": "2026-03-17",
-            "views": 2491,
+            "views": 2494,
             "likes": 15
         },
         {
@@ -876,35 +884,35 @@ const metricsData = {
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - FDI전략기획팀",
             "category": "Culture",
             "date": "2026-06-12",
-            "views": 549
+            "views": 552
         },
         {
             "id": "1167",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 해외사업부문",
             "category": "Culture",
             "date": "2026-06-12",
-            "views": 597
+            "views": 601
         },
         {
             "id": "1166",
             "title": "골프공으로 시장을 설득하는 법",
             "category": "Culture",
             "date": "2026-06-11",
-            "views": 660
+            "views": 668
         },
         {
             "id": "1165",
             "title": "직무 이야기 : 모바일제품개발팀 제품 디자이너",
             "category": "Job",
             "date": "2026-06-11",
-            "views": 640
+            "views": 641
         },
         {
             "id": "1159",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 고객경험전략팀",
             "category": "Culture",
             "date": "2026-05-29",
-            "views": 754
+            "views": 755
         },
         {
             "id": "1158",
@@ -918,21 +926,21 @@ const metricsData = {
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 인재개발팀",
             "category": "Culture",
             "date": "2026-05-07",
-            "views": 913
+            "views": 915
         },
         {
             "id": "1153",
             "title": "매일의 충전을 다시 설계하다",
             "category": "& Design",
             "date": "2026-04-28",
-            "views": 822
+            "views": 823
         },
         {
             "id": "1151",
             "title": "슈피겐, 기술을 넘어 기억까지 보호하다",
             "category": "& Design",
             "date": "2026-04-17",
-            "views": 926
+            "views": 928
         },
         {
             "id": "1148",
@@ -946,35 +954,35 @@ const metricsData = {
             "title": "[Brand Insight] 모바일 액세서리 1위를 넘어 골프 시장의 게임 체인저로, '레가토(Legato)'",
             "category": "Culture",
             "date": "2026-03-13",
-            "views": 1120
+            "views": 1123
         },
         {
             "id": "1141",
             "title": "[Playlist] 우수사원 - 동단비프로의 워크 키트",
             "category": "People",
             "date": "2026-02-23",
-            "views": 1204
+            "views": 1205
         },
         {
             "id": "1140",
             "title": "[Playlist] 우수사원 - 나아름프로의 워크 키트",
             "category": "People",
             "date": "2026-02-13",
-            "views": 663
+            "views": 664
         },
         {
             "id": "1138",
             "title": "슈피겐코리아 랜선 오피스투어",
             "category": "Culture",
             "date": "2026-02-02",
-            "views": 969
+            "views": 970
         },
         {
             "id": "1137",
             "title": "[Playlist] 우수사원 - 이재승리더의 워크 키트",
             "category": "People",
             "date": "2026-01-29",
-            "views": 704
+            "views": 705
         },
         {
             "id": "1136",
@@ -988,7 +996,7 @@ const metricsData = {
             "title": "26년 시무식 현장",
             "category": "Culture",
             "date": "2026-01-07",
-            "views": 682
+            "views": 686
         }
     ],
     "linkedin_posts_list": [
@@ -1057,19 +1065,19 @@ const metricsData = {
             "shares": 1
         },
         {
-            "id": "7473260285152239617",
-            "url": "https://www.linkedin.com/posts/spigenkorea_%EC%A0%9C%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%88%ED%94%BC%EA%B2%90%EC%BD%94%EB%A6%AC%EC%95%84-activity-7473260285152239617-wXhj",
-            "content": "좋은 디자이너는 시안에서 머무르지 않습니다.",
-            "date": "2026-06-18",
-            "likes": 14,
-            "shares": 2
-        },
-        {
             "id": "7473259687677702144",
             "url": "https://www.linkedin.com/posts/spigenkorea_%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%A7%88%EC%BC%80%ED%8C%85-%EA%B8%B0%ED%9A%8D-%EC%9C%A0%EB%9F%BD-%EC%8A%88%ED%94%BC%EA%B2%90%EC%BD%94%EB%A6%AC%EC%95%84-activity-7473259687677702144-Nv3x",
             "content": "\"AI와 함께 일하려면 개발 관련 지식을 알아야 하지 않나요?\" ",
             "date": "2026-06-18",
             "likes": 12,
+            "shares": 2
+        },
+        {
+            "id": "7473260285152239617",
+            "url": "https://www.linkedin.com/posts/spigenkorea_%EC%A0%9C%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%88%ED%94%BC%EA%B2%90%EC%BD%94%EB%A6%AC%EC%95%84-activity-7473260285152239617-wXhj",
+            "content": "좋은 디자이너는 시안에서 머무르지 않습니다.",
+            "date": "2026-06-18",
+            "likes": 14,
             "shares": 2
         },
         {
