@@ -17,7 +17,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 SPREADSHEET_ID = os.environ.get('SPREADSHEET_ID')
-SHEET_NAME = '26년 홍보 컨텐츠_블로그'
+SHEET_NAME = '26년 홍보 컨텐츠 발행내역'
 DATA_START_ROW = 9  # 8행이 헤더, 9행부터 데이터
 
 
